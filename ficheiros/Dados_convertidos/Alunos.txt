@@ -1,0 +1,163 @@
+Nome;Numero;Ano;DataNascimento;Email;Telemovel;CodigoPostal
+Abdulay Soares D' Almeida;1012305;1;03-10-1998 19:12;abdulay@hotmail.com;937248319;6900-469
+Agostinho de Pina Ramos;1012444;1;28-03-1994 14:24;agostinho@sal.ipg.pt;913696531;4600-897
+Alex Inácio Rodrigues;1012523;1;15-01-1999 09:36;alex@sal.ipg.pt;952319479;5900-109
+Alexandre Manuel Guerra Janeiro;1012163;1;06-11-1990 20:09;alexandre@hotmail.com;929547532;7900-983
+Álvaro Ferreira de Oliveira Neto;1700054;1;04-10-1998 09:36;álvaro@hotmail.com;913363063;9600-224
+Anabela de Jesus Rodrigues Barreira;1006185;1;06-03-1988 05:45;anabela@sal.ipg.pt;926271793;2800-408
+Anderson Rodrigo da Costa e Silva;1700910;1;09-12-1987 15:21;anderson@gmail.com;914731954;7500-882
+André Filipe Janela Ramos;1012025;1;15-10-1997 15:21;andré@hotmail.com;954403234;5300-178
+André Marcelino Baptista;1012022;1;31-10-1997 13:26;andré@sal.ipg.pt;916822399;5000-527
+António José Cerdeira;1700430;1;24-04-1996 11:31;antónio@hotmail.com;945453914;7200-223
+Benjamim Santana do Nascimento;1701041;1;17-05-1990 22:05;benjamim@gmail.com;919631323;9800-791
+Bruno Alexandre Freitas De Jesus;1700094;1;20-07-1988 13:26;bruno@hotmail.com;941608145;5700-788
+Bruno da Costa Matias;1012026;1;16-04-1999 20:09;bruno@sal.ipg.pt;964527595;6000-937
+Bruno Miguel Almeida Figueiredo;1012225;1;08-10-1993 09:36;bruno@gmail.com;932171178;6600-181
+Carla Tebús da Silva Capela;1012655;1;01-08-1998 17:17;carla@gmail.com;928905427;6200-954
+Carlos Borja Ferreira da Cruz;1701062;1;12-08-1987 18:14;carlos@sal.ipg.pt;953937619;9000-735
+Cheng Bo;1700637;1;25-03-1988 06:43;cheng@sal.ipg.pt;914813824;5600-514
+Daniel Luis Pires Pereira;1700104;1;01-03-1987 09:36;daniel@hotmail.com;936165310;4200-119
+Dário Coelho Ribeiro;1012208;1;19-12-1989 08:38;dário@sal.ipg.pt;956346904;1000-714
+David Esteves Tavares;1011836;1;11-09-1995 21:07;david@gmail.com;956602147;6800-714
+Ezequiel Amâncio do Rosário Gomes;1701058;1;22-05-1999 23:02;ezequiel@hotmail.com;958360048;6100-783
+Fabio Carvalho dos Ramos;1701067;1;22-11-1997 21:07;fabio@hotmail.com;936951394;9300-723
+Fernando Junior Loureiro Lopes;1700616;1;13-08-1994 01:55;fernando@hotmail.com;912309232;1500-935
+Francisco José Isidoro Albino;1700770;1;10-12-1996 10:33;francisco@hotmail.com;958308286;4200-888
+Francisco Maçorano Fonseca Saraiva;1700705;1;17-04-1990 18:14;francisco@sal.ipg.pt;966797068;2700-133
+Gabriel Afonso Gonçalves;1012240;1;31-03-1999 03:50;gabriel@sal.ipg.pt;914041010;7600-377
+Gikson Viegas da Conceição;1701049;1;02-05-1988 08:38;gikson@hotmail.com;946621150;5700-366
+Gonçalo Filipe Ferreira Amaral;1011857;1;16-08-1990 15:21;gonçalo@gmail.com;943998679;4400-960
+Gonçalo Filipe Teixeira Dos Santos;1700800;1;17-06-1995 13:26;gonçalo@sal.ipg.pt;956304793;5000-865
+Gonçalo Guerreiro Paulo Vicente;1700665;1;16-03-1991 23:02;gonçalo@gmail.com;916650887;3500-529
+Gonçalo Vasques Gomes;1700753;1;15-12-1990 12:29;gonçalo@gmail.com;944432943;1000-576
+Henrique Francisco Marques Moreira;1700714;1;27-10-1991 19:12;henrique@hotmail.com;958926715;8100-328
+Henrique Grelo de Carvalho;1700857;1;03-04-1990 22:05;henrique@gmail.com;932706282;9400-672
+Hugo Correia Quina;1009254;1;29-03-1987 11:31;hugo@hotmail.com;947787929;8500-687
+Hugo Miguel Lopes Figueira;1700120;1;16-06-1994 11:31;hugo@hotmail.com;927864064;5200-670
+Hugo Miguel Mendes Amaral;1700149;1;14-10-1999 23:02;hugo@hotmail.com;948441313;6900-937
+Ivo Miguel da Costa Ferreira;1700737;1;03-11-1995 00:57;ivo@hotmail.com;969766660;7900-787
+João Afonso Do Couto Aires;1700318;1;27-02-1993 03:50;joão@sal.ipg.pt;954769324;2900-185
+João António Madeira Saraiva;1700084;1;03-02-1996 02:53;joão@hotmail.com;912358212;2300-876
+João Daniel Augusto Gomes;1012000;1;11-07-1994 08:38;joão@sal.ipg.pt;931285104;8900-685
+João Pedro Bernardo Amaro;1700711;1;07-01-1988 03:50;joão@hotmail.com;965555991;1800-998
+João Vitor Dutra Garcia;1700948;1;28-05-1994 23:02;joão@hotmail.com;913752870;9500-398
+José Nuno Pinto Rodrigues;1700108;1;18-04-1999 23:02;josé@hotmail.com;955628921;5300-858
+Leonard Santos Martins;1700055;1;20-09-1999 16:19;leonard@sal.ipg.pt;937179331;5400-490
+Leonardo De Jesus Marques Da Costa;1700819;1;27-11-1987 05:45;leonardo@sal.ipg.pt;928137493;5300-807
+Leonardo Manuel Pacheco Branco;1700813;1;05-06-1999 22:05;leonardo@sal.ipg.pt;958715387;8300-936
+Leonel Filipe Dos Santos Rita;1700632;1;18-05-1990 02:53;leonel@hotmail.com;951372542;9100-939
+Luis Antonio Pinto De Barros;1700331;1;31-10-1988 00:57;luis@gmail.com;969141556;2000-957
+Luís Miguel Gama Lourenço;1700502;1;11-11-1999 09:36;luís@gmail.com;923984786;3900-392
+Miguel Filipe Santiago Pereira;1012534;1;10-07-1999 01:55;miguel@gmail.com;932107905;1100-910
+Nicolau Santos Barranha;1012535;1;04-07-1987 03:50;nicolau@sal.ipg.pt;956712109;5800-854
+Nil José Albuquerque Da Silva;1700774;1;10-02-1988 08:38;nil@gmail.com;933766805;5300-796
+Nuno Da Costa Fernandes;1700640;1;29-06-1993 13:26;nuno@gmail.com;923565553;4000-294
+Nuno Miguel Silva Goncalves Serodio;1700619;1;14-01-1989 04:48;nuno@hotmail.com;923995961;3600-740
+Óscar Esperança Cardoso;1012003;1;22-02-1993 13:26;óscar@hotmail.com;926087952;6900-145
+Pedro Henrique Da Cruz Matos;1700789;1;23-09-1991 05:45;pedro@hotmail.com;916007739;8600-636
+Pedro Miguel Marcos Antunes;1012181;1;22-06-1998 21:07;pedro@sal.ipg.pt;957652253;4700-197
+Pedro Miguel Pereira Dias;1012406;1;25-07-1994 18:14;pedro@sal.ipg.pt;918896635;1300-240
+Pedro Miguel Resende Bento;1700127;1;01-02-1991 14:24;pedro@gmail.com;932964412;1600-526
+Propaulo de Sousa Martins Ferreira;1012646;1;02-05-1990 17:17;propaulo@hotmail.com;967710951;6100-347
+Quevin Miguel Batista Domingos;1700772;1;18-04-1996 13:26;quevin@hotmail.com;936764421;9800-577
+Rafael Almeida Da Costa;1700681;1;23-05-1993 22:05;rafael@hotmail.com;922199527;8000-688
+Rafaela Rodrigues Lopes;1012659;1;05-09-1989 17:17;rafaela@hotmail.com;948017159;7900-568
+Renato Alexandre Tavares Lopes;1700221;1;03-02-1992 09:36;renato@hotmail.com;929792310;5600-131
+Ricardo Filipe Melo Figueiredo;1700363;1;23-07-1992 02:53;ricardo@gmail.com;956345748;3700-667
+Ricardo Silvestre Alexandre Fabião;1700419;1;26-04-1989 13:26;ricardo@sal.ipg.pt;959205918;9900-453
+Rodrigo Luis Santos Lourenço;1700254;1;16-11-1998 18:14;rodrigo@gmail.com;938555406;4900-265
+Rodrigo Manuel Nunes Pinho Almeida;1700717;1;25-07-1998 23:02;rodrigo@sal.ipg.pt;925408299;2300-360
+Ruben Manuel Ribeiro Videira;1700214;1;10-03-1997 12:29;ruben@hotmail.com;912967586;1500-149
+Rúben Viana Gomes;1700631;1;01-01-1992 18:14;rúben@gmail.com;949792615;2800-949
+Rui Alexandre Gomes Pina;1012021;1;05-02-1988 07:41;rui@sal.ipg.pt;929359756;9000-360
+Rui Miguel Do Monte Ferreira;1700633;1;24-01-1998 09:36;rui@gmail.com;938843135;9700-223
+Selmira Ibrahim Azevedo Fernandes;1012380;1;12-09-1991 03:50;selmira@gmail.com;924653331;8700-188
+Soila da Cruz Rita Benguela;1701061;1;03-11-1992 14:24;soila@hotmail.com;954835147;9500-953
+Telmo Miguel Amaral Salvado;1700712;1;24-06-1988 21:07;telmo@sal.ipg.pt;921785891;4600-666
+Tiago André Mota Cunha;1700597;1;20-09-1991 21:07;tiago@gmail.com;933742582;9700-587
+Tiago Filipe Freire Salvador;1700346;1;02-02-1998 19:12;tiago@sal.ipg.pt;955053234;7100-163
+Tiago Gabriel Gonçalves Pereira;1012011;1;11-07-1998 12:29;tiago@sal.ipg.pt;934033599;6200-300
+Tiago Quintas Rosas da Costa;1011930;1;04-10-1998 16:19;tiago@hotmail.com;939338960;6100-529
+Vasco António Da Cruz Ventura;1700299;1;01-10-1991 16:19;vasco@gmail.com;934805303;9000-950
+Virca Gonçalves Sacramento Afonso;1012599;1;11-08-1997 17:17;virca@sal.ipg.pt;939630397;4500-163
+Xavier Da Silva Moreira;1700728;1;24-05-1987 07:41;xavier@gmail.com;943327867;8700-211
+Afonso da Silva Alves;1012522;2;22-11-1994 01:55;afonso@hotmail.com;916909061;8500-308
+Alexandre Marques Rente;1012387;2;09-04-1999 10:33;alexandre@gmail.com;923976654;5900-745
+Álvaro da Silva Fonseca;1012577;2;13-03-1988 12:29;álvaro@gmail.com;961381421;7400-487
+Ana Raquel Marques Gonçalves;1011714;2;30-03-1990 20:09;ana@hotmail.com;955402608;8400-991
+André Domingues Pedro;1011418;2;10-11-1995 14:24;andré@hotmail.com;921843765;5900-992
+André Filipe Cunha Teixeira;1011847;2;14-05-1989 11:31;andré@hotmail.com;936347080;6400-107
+André Jorge Pereira Batista;1012566;2;16-06-1994 08:38;andré@hotmail.com;932424820;9600-209
+André Lopes Tomás;1012524;2;10-04-1993 10:33;andré@sal.ipg.pt;941582728;2900-429
+André Mendes de Carvalho;1011718;2;15-02-1994 23:02;andré@gmail.com;941577808;9200-803
+Aureo Fernandes Ceita Paquete;1012385;2;12-04-1998 17:17;aureo@hotmail.com;951967581;7200-146
+Bárbara Sofia Eiras Ovelheiro;1012526;2;09-05-1988 17:17;bárbara@hotmail.com;934091879;7100-173
+Bernardo José Sada;1012070;2;07-07-1990 09:36;bernardo@sal.ipg.pt;951827797;3600-659
+Bruno Miguel Cruz Santos;1012388;2;03-06-1989 10:33;bruno@hotmail.com;942074247;3800-499
+Camilo João Costa Panta Baltazar;1012389;2;24-10-1993 08:38;camilo@sal.ipg.pt;928986153;1500-609
+Carina Sofia Mansinha Tomé;1012164;2;24-09-1993 21:07;carina@hotmail.com;949213454;6500-841
+Carlos Filipe Almeida Tavares;1012120;2;20-04-1987 15:21;carlos@hotmail.com;932162112;3400-431
+Cláudia Filipa da Costa Amaral;1011593;2;11-03-1999 14:24;cláudia@sal.ipg.pt;947349743;6000-389
+Cláudio Cristiano Pinto Catarino;1010793;2;30-08-1993 00:57;cláudio@hotmail.com;949944955;2300-451
+Cristiana Morgado Cardoso;1011594;2;27-07-1988 04:48;cristiana@hotmail.com;939954610;3800-334
+Cristiano Ferreira Pires;1012036;2;08-05-1996 07:41;cristiano@sal.ipg.pt;943126140;3900-669
+Cristiano Pires Patrício;1012390;2;17-04-1991 12:29;cristiano@sal.ipg.pt;947346473;1100-572
+Cristiano Vinício Soares Teixeira;1012391;2;25-08-1990 12:29;cristiano@gmail.com;916561802;9200-393
+Daniel Amaro Gomes;1012168;2;09-02-1994 20:09;daniel@hotmail.com;913096224;4600-701
+Daniel Domingues de Pina;1012392;2;03-01-1989 14:24;daniel@hotmail.com;923417512;9600-604
+Daniel Moreira Ribeiro;1012527;2;16-11-1988 01:55;daniel@gmail.com;951326495;4500-731
+Daniel Simões Azevedo Barros;1009987;2;10-07-1991 18:14;daniel@sal.ipg.pt;959891061;4300-170
+David André Soares Júlio;1012169;2;18-06-1999 16:19;david@hotmail.com;948604934;9800-645
+Diogo Afonso Rodrigues Lage Sá;1011233;2;17-01-1994 21:07;diogo@hotmail.com;941939681;6400-334
+Diogo Francisco Gomes Pinheiro;1012171;2;01-10-1996 03:50;diogo@gmail.com;927840478;2600-424
+Dylan Coelho Pinto;1010865;2;14-12-1992 15:21;dylan@sal.ipg.pt;955898864;3500-797
+Fábio Figueiredo Marques;1012393;2;25-07-1987 03:50;fábio@sal.ipg.pt;968648270;9400-507
+Fabio Júnior Viegas Marques;1012469;2;17-10-1996 13:26;fabio@hotmail.com;949513143;4600-671
+Francisco Pires Duarte Cordeiro;1012394;2;13-06-1994 13:26;francisco@gmail.com;963522373;5700-682
+Guilherme Fernandes Jorge Gonçalves;1011329;2;28-12-1991 10:33;guilherme@hotmail.com;957218214;7300-606
+Henrique Manuel Sousa Araújo;1012531;2;27-06-1992 11:31;henrique@gmail.com;946959575;2300-415
+Hugo Manuel Soares dos Santos;1012172;2;24-03-1988 03:50;hugo@hotmail.com;917012270;7800-888
+Inês de Vasconcelos Simões;1012532;2;16-05-1991 13:26;inês@gmail.com;959509822;5900-474
+João Anselmo Quintal Santos;1011455;2;16-05-1987 00:00;joão@gmail.com;946149262;4600-757
+João Marcos Fernandes Torres;1012048;2;11-06-1987 16:19;joão@gmail.com;949752032;8800-945
+João Moledo Dias;1012173;2;10-02-1996 05:45;joão@sal.ipg.pt;935083433;9600-653
+João Pedro Coutinho Pereira;1012174;2;11-11-1992 15:21;joão@gmail.com;914360725;7400-133
+João Pedro Gouveia Nunes;1011350;2;17-09-1995 16:19;joão@hotmail.com;932415439;8300-479
+Jorge Miguel de Albuquerque Lameiras;1010781;2;07-10-1994 19:12;jorge@hotmail.com;962894352;8900-586
+José Filipe Pinto Melo;1011675;2;30-08-1993 00:00;josé@gmail.com;936045472;1500-449
+José Manuel de Jesus Bento Pires;1010955;2;28-10-1992 01:55;josé@gmail.com;947912175;2300-576
+José Ricardo Neves Costa;1010393;2;30-07-1992 06:43;josé@gmail.com;922855800;5200-552
+Josué Pedro Reis Silva;1012533;2;13-10-1991 19:12;josué@gmail.com;922911808;5600-346
+Leonardo Manuel Ferreira dos Santos Lourenço;1012395;2;30-05-1989 04:48;leonardo@gmail.com;951753858;4000-513
+Luciano Fernandes Brido;1011881;2;23-04-1993 19:12;luciano@sal.ipg.pt;945176608;1300-545
+Ludmilton dos Ramos Quaresma Dias;1012058;2;11-02-1992 18:14;ludmilton@gmail.com;934549898;9400-395
+Marcelo Fernandes Lopes;1012179;2;12-12-1987 02:53;marcelo@sal.ipg.pt;918954957;5400-166
+Márcia Inês Carvalho de Jesus Reverendo;1011859;2;07-12-1999 10:33;márcia@hotmail.com;961506354;9000-603
+Marco André Gonçalves Dias;1008786;2;08-06-1990 16:19;marco@gmail.com;916170980;7700-736
+Micael Alexandre Tavares dos Santos;1010799;2;29-03-1995 10:33;micael@gmail.com;943955726;4300-258
+Nuno Bill Afonso Silva;1012377;2;19-01-1992 00:57;nuno@sal.ipg.pt;916871403;9400-690
+Nuno Clodic Carvalho Lima;1011577;2;18-03-1991 00:57;nuno@gmail.com;953772871;8900-964
+Pedro Filipe de Melo Pinto;1012590;2;27-09-1989 00:57;pedro@hotmail.com;942843502;9200-884
+Pedro Miguel Alves Ferreira;1011692;2;09-12-1992 22:05;pedro@hotmail.com;962727666;5300-895
+Pedro Miguel Pereira Soares;1009999;2;31-08-1992 00:00;pedro@sal.ipg.pt;952470421;1300-605
+Pedro Paulo Leal de Medeiros;1012470;2;06-08-1993 09:36;pedro@hotmail.com;915256570;8200-734
+Ricardo Filipe Sanches Gomes;1011038;2;22-06-1998 17:17;ricardo@gmail.com;913476263;6400-835
+Ricardo Luís Pereira da Fonseca;1012183;2;02-12-1991 13:26;ricardo@sal.ipg.pt;928846631;1400-418
+Ricardo Miguel Alípio Fernandes;1009693;2;19-12-1998 18:14;ricardo@gmail.com;953104419;9800-705
+Roberto Machado Adelino;1012539;2;07-06-1990 22:05;roberto@hotmail.com;942024924;8600-693
+Rui Alexandre Ramos Rocha;1011277;2;16-04-1996 18:14;rui@gmail.com;951763208;8200-220
+Rui Pedro da Fonseca Martins;1010747;2;31-07-1990 10:33;rui@gmail.com;946673381;4900-415
+Rui Pedro Ramires Manta;1012396;2;28-03-1995 14:24;rui@gmail.com;941540444;2800-990
+Rui Sérgio Paulos Badana;1009664;2;21-09-1998 12:29;rui@sal.ipg.pt;968091509;3200-418
+Simão Cardoso Leal Teixeira;1012541;2;20-10-1998 21:07;simão@sal.ipg.pt;932521455;3200-840
+Tiago Alexandre Pereira dos Santos;1012045;2;31-05-1994 19:12;tiago@hotmail.com;964099100;6900-585
+Tiago Emanuel Rodrigues Oliveira Branco;1010200;2;15-05-1988 22:05;tiago@gmail.com;926719519;5100-594
+Tiago Filipe da Costa Lourenço;1012092;2;26-10-1996 18:14;tiago@gmail.com;942833251;7200-811
+Tiago Gamboa Cravo dos Santos Lucas;1012397;2;05-06-1993 12:29;tiago@hotmail.com;953132603;9500-403
+Tiago José Fernandes Manso;1010548;2;23-05-1987 11:31;tiago@sal.ipg.pt;954070246;8400-166
+Tiago Miguel Gonçalves dos Santos;1011709;2;20-02-1990 19:12;tiago@hotmail.com;958472295;8700-287
+Vanderley Barreto do Espírito Santo Quaresma;1012331;2;20-02-1989 02:53;vanderley@sal.ipg.pt;949210960;2200-852
+Vasco Rafael Lopes de Oliveira;1012542;2;06-09-1995 04:48;vasco@hotmail.com;943824375;7300-182
+Vital Pedro Ferreira da Cruz Gonçalves;1011719;2;02-02-1992 21:07;vital@hotmail.com;962773550;6100-551
+Vítor Emanuel Sampaio Pereira;1012543;2;07-02-1999 03:50;vítor@hotmail.com;938196440;2600-554
+Teste da Silva Teste;00001;01/12/1999;01/12/1999;teste@teste.com.br;968496177;6300758

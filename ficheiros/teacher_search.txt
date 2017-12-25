@@ -1,0 +1,20 @@
+teacher_to_search = input("Name? ")
+f = open("teachers.txt", "rt")
+found = False
+for line in f.readlines():
+    line = line.rstrip('\n')
+    vetor = line.split(';')
+    id = vetor[0]
+    name = vetor[1];
+    short = vetor[2];
+    if (name.find(teacher_to_search) >=0):
+	print(id, name, short)
+	r = input("É este? (s/n)")
+	if (r==s):
+	    found = true
+	    break
+f.close()
+if found:
+    print("Teacher %s found" %teacher_to_search)
+else:
+    print("Teacher %s not found" %teacher_to_search)

@@ -1,0 +1,113 @@
+Código	Nome	ECTS	Regime	Semestre	Ano
+UCEE1022	Álgebra e Geometria Analítica	6	S	1	1
+INF1052	Algoritmos e Estruturas de Dados	6	S	1	1
+MF1007	Análise Matemática	6	S	1	1
+MF1008	Introdução à Física	6	S	1	1
+UINF1066	Introdução à Programação	6	S	1	1
+UCEE1022	Álgebra e Geometria Analítica	6	S	2	1
+INF1004	Engenharia de Software I	6	S	2	1
+MF1008	Introdução à Física	6	S	2	1
+MF1044	Métodos Numéricos	6	S	2	1
+UINF1067	Programação	6	S	2	1
+INF1003	Sistemas Digitais I	6	S	2	1
+UINF1068	Tecnologias da Internet	6	S	2	1
+INF1058	Aspetos Sociais da Informática	5	S	1	2
+INF1056	Bases de Dados I	5	S	1	2
+INF1017	Controlo Industrial	4,5	S	1	2
+MF1045	Probabilidades e Estatística	5,5	S	1	2
+INF1007	Sistemas Digitais II	5	S	1	2
+INF1035	Sistemas Multimédia	5	S	1	2
+INF1001	Arquitetura de Computadores	6	S	2	2
+UINF1069	Programação Avançada	5	S	2	2
+INF1013	Redes de Computadores	5	S	2	2
+UINF1070	Robótica	5	S	2	2
+INF1014	Sistemas Operativos	5	S	2	2
+INF1060	Computação Gráfica	6	S	1	3
+INF1012	Engenharia de Software II	6	S	1	3
+INF1016	Engenharia de Redes	5	S	1	3
+CSH1044	Gestão e Criação de Empresas	3	S	1	3
+INF1020	Inteligência Artificial	4	S	1	3
+UINF1071	Programação para a Internet	6	S	1	3
+INF1062	Bases de Dados II	6	S	2	3
+UINF1072	Projeto de Informática	10	S	2	3
+INF1024	Sistemas Distribuídos	6	S	2	3
+INF1001	Arquitetura de Computadores	6	S	2	2
+UINF1069	Programação Avançada	5	S	2	2
+INF1013	Redes de Computadores	5	S	2	2
+UINF1070	Robótica	5	S	2	2
+INF1014	Sistemas Operativos	5	S	2	2
+INF1067	Controlo Digital	4	S	2	2
+INF1148	Electrotecnia	4	S	2	2
+ULC1174	Inglês Aplicado	4	S	2	2
+G1030	Marketing e Internet	4	S	2	2
+INF1054	Matemática Discreta em Informática	4	S	2	2
+INF1080	Modelação 3d e Animação	4	S	2	2
+INF1022	Planeamento Estratégico de Sistemas de Informação	4	S	2	2
+INF1071	Processamento Digital de Imagem	4	S	2	2
+UINF1065	Programação e Segurança	4	S	2	2
+UINF1060	Programação em PHP	4	S	2	2
+INF1065	Programação Funcional	4	S	2	2
+INF1064	Programação Para Dispositivos Móveis	4	S	2	2
+INF1040	Redes de Alta Velocidade	4	S	2	2
+UINF1061	Segurança em Redes de Dados	4	S	2	2
+INF1068	Simulação Por Computador	4	S	2	2
+INF1023	Sistemas de Apoio à Decisão	4	S	2	2
+INF1021	Sistemas de Telecomunicações	4	S	2	2
+UINF1064	Sistemas Domóticos	4	S	2	2
+INF1031	Sistemas Gráficos Interactivos	4	S	2	2
+INF1015	Teoria dos Sistemas	4	S	2	2
+UINF1059	Testes de Software	4	S	2	2
+G1084	Tópicos de Investigação Operacional	4	S	2	2
+INF1062	Bases de Dados II	6	S	2	3
+UINF1072	Projeto de Informática	10	S	2	3
+INF1024	Sistemas Distribuídos	6	S	2	3
+UINF1000	Compiladores	4	S	1	3
+INF1067	Controlo Digital	4	S	1	3
+INF1172	Electrónica	4	S	1	3
+ULC1174	Inglês Aplicado	4	S	1	3
+CC1000	Introdução Aos Computadores	4	S	1	3
+INF1124	Introdução Aos Computadores	4	S	1	3
+G1030	Marketing e Internet	4	S	1	3
+INF1054;Matemática Discreta em Informática;4;S;1;3
+INF1080;Modelação 3d e Animação;4;S;1;3
+INF1022;Planeamento Estratégico de Sistemas de Informação;4;S;1;3
+INF1071;Processamento Digital de Imagem;4;S;1;3
+UINF1065;Programação e Segurança;4;S;1;3
+UINF1060;Programação em PHP;4;S;1;3
+INF1065;Programação Funcional;4;S;1;3
+INF1064;Programação Para Dispositivos Móveis;4;S;1;3
+INF1019;Projeto de Informática;4;S;1;3
+INF1040;Redes de Alta Velocidade;4;S;1;3
+UINF1061;Segurança em Redes de Dados;4;S;1;3
+INF1068;Simulação Por Computador;4;S;1;3
+INF1023;Sistemas de Apoio à Decisão;4;S;1;3
+INF1021;Sistemas de Telecomunicações;4;S;1;3
+UINF1064;Sistemas Domóticos;4;S;1;3
+INF1031;Sistemas Gráficos Interactivos;4;S;1;3
+UINF1059;Testes de Software;4;S;1;3
+G1084;Tópicos de Investigação Operacional;4;S;1;3
+MF1043;Análise Matemática II;6,5;S;2;3
+CC1013;Complementos de Matemática;4;S;2;3
+INF1067;Controlo Digital;4;S;2;3
+UINF1052;Ferramentas de Teste;4;S;2;3
+ULC1174;Inglês Aplicado;4;S;2;3
+G1030;Marketing e Internet;4;S;2;3
+INF1054;Matemática Discreta em Informática;4;S;2;3
+INF1080;Modelação 3d e Animação;4;S;2;3
+CC1027;Organização Industrial;1;S;2;3
+INF1022;Planeamento Estratégico de Sistemas de Informação;4;S;2;3
+INF1071;Processamento Digital de Imagem;4;S;2;3
+UINF1065;Programação e Segurança;4;S;2;3
+UINF1060;Programação em PHP;4;S;2;3
+INF1065;Programação Funcional;4;S;2;3
+INF1064;Programação Para Dispositivos Móveis;4;S;2;3
+INF1040;Redes de Alta Velocidade;4;S;2;3
+UINF1061;Segurança em Redes de Dados;4;S;2;3
+INF1068;Simulação Por Computador;4;S;2;3
+INF1032;Sistemas Computação Paralela;4;S;2;3
+INF1023;Sistemas de Apoio à Decisão;4;S;2;3
+INF1021;Sistemas de Telecomunicações;4;S;2;3
+UINF1064;Sistemas Domóticos;4;S;2;3
+INF1031;Sistemas Gráficos Interactivos;4;S;2;3
+UINF1059;Testes de Software;4;S;2;3
+G1084;Tópicos de Investigação Operacional;4;S;2;3

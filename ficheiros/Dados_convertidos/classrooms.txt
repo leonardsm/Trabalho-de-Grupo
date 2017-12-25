@@ -1,0 +1,132 @@
+id;name;short
+11;ESECD_Atelier;1.5
+113;ESTH_Auditório de Culinária;A5
+16;ESECD_Campo de Ténis ;C Tenis
+2;ESECD_CardioFitness;0.3
+118;ESTH_Cozinha Central;CC
+119;ESECD_Geral;1.8
+6;ESECD_Informática;0.5
+4;ESECD_Informática;1.1
+19;ESECD_Informática;2.2
+115;ESTH_Laboratório de Bar / Enologia;A8
+9;ESECD_Laboratório de Ciências;1.3
+114;ESTH_Laboratório de Cozinha;A7
+5;ESECD_Laboratório de Línguas;0.4
+7;ESECD_Laboratório de Rádio;LabRadio
+116;ESTH_Laboratório de Restaurante;A9
+30;ESECD_Laboratório de Vídeo;LabVideo
+36;ESS_Laboratório 1;L1
+37;ESS_Laboratório 2;L2
+47;ESS_Laboratório 3;L3
+38;ESS_Laboratório 4;L4
+39;ESS_Laboratório 5;L5
+10;ESECD_Microensino;1.4
+12;ESECD_Música;1.6
+117;ESTH_Padaria / Pastelaria;A33
+17;ESECD_Piscina do IPG;Piscina
+13;ESECD_Reuniões;1.7
+98;ESTH_Sala de Informática;B4
+99;ESTH_Sala de Informática;B5
+100;ESTH_Sala de Informática;B6
+101;ESTH_Sala de Informática;B7
+48;ESS_Sala de Informática;SInf
+31;ESS_Sala 1;S1
+44;ESS_Sala 10;S10
+45;ESS_Sala 11;S11
+46;ESS_Sala 12;S12
+32;ESS_Sala 2;S2
+33;ESS_Sala 3;S3
+34;ESS_Sala 4;S4
+35;ESS_Sala 5;S5
+40;ESS_Sala 6;S6
+41;ESS_Sala 7;S7
+42;ESS_Sala 8;S8
+43;ESS_Sala 9;S9
+103;ESTH_B9;B9
+104;ESTH_B10;B10
+105;ESTH_B11;B11
+106;ESTH_C4;C4
+107;ESTH_C5;C5
+108;ESTH_C6;C6
+109;ESTH_C10;C10
+110;ESTH_C11;C11
+111;ESTH_C12;C12
+112;ESTH_A23;A23
+128;ESTG_LabQuim;LabQuim
+130;ESECD_0.1 LabMus;0.1 LabMus
+120;ESECD_Gin Muscul;Gin Muscul
+121;ESECD_Estádio;Estádio
+122;ESECD_Pav Resid;Pav Resid
+123;ESECD_Zambito;Zambito
+129;ESTG_LabFisica;LabFisica
+127;ESTH_Audit-ESTH;Audit-ESTH
+131;ESTG_LabRobotic;LabRobotic
+124;ESECD_Inatel;Inatel
+125;ESECD_Pisc. Mun;Pisc. Mun
+126;ESTG_Oficinas;Oficinas
+3;ESECD_Labmov;Labmov
+8;ESECD_1.2;1.2
+14;ESECD_Sala Dança;Sala Dança
+15;ESECD_Ginásio;Ginásio
+18;ESECD_2.1;2.1
+20;ESECD_2.3;2.3
+21;ESECD_2.4;2.4
+22;ESECD_2.5;2.5
+23;ESECD_2.6;2.6
+24;ESECD_2.7;2.7
+25;ESECD_2.8;2.8
+26;ESECD_2.9;2.9
+27;ESECD_2.10;2.10
+28;ESECD_2.11;2.11
+29;ESECD_2.12;2.12
+49;ESS_Auditório;Auditório
+50;ESTG_31;31
+52;ESTG_4;4
+53;ESTG_6;6
+54;ESTG_7;7
+55;ESTG_8;8
+56;ESTG_9;9
+57;ESTG_10;10
+51;ESTG_37;37
+62;ESTG_38;38
+63;ESTG_39;39
+64;ESTG_41;41
+65;ESTG_42;42
+66;ESTG_43;43
+67;ESTG_44;44
+68;ESTG_45;45
+69;ESTG_46;46
+70;ESTG_47;47
+71;ESTG_48;48
+72;ESTG_49;49
+73;ESTG_50;50
+74;ESTG_Cilc;Cilc
+75;ESTG_16;16
+76;ESTG_17;17
+77;ESTG_18;18
+78;ESTG_19;19
+79;ESTG_20;20
+80;ESTG_21;21
+81;ESTG_22;22
+82;ESTG_23;23
+83;ESTG_24;24
+84;ESTG_25;25
+58;ESTG_51;51
+59;ESTG_52;52
+60;ESTG_53;53
+85;ESTG_54;54
+86;ESTG_55;55
+87;ESTG_56;56
+88;ESTG_57;57
+89;ESTG_58;58
+90;ESTG_59;59
+61;ESTG_Auditório Civil;ACivil
+91;ESTG_60;60
+92;ESTG_61;61
+93;ESTG_62;62
+94;ESTG_63;63
+95;ESTG_64;64
+96;ESTG_65;65
+97;ESTG_66;66
+102;ESTH_B8;B8
+133;ESTG_29;29

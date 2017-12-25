@@ -1,0 +1,256 @@
+id;name;short
+886;Abílio Madeira de Figueiredo;AMF
+279;Adérito Neto Alcaso;ANA
+487;Adriano Azevedo Costa;AAC
+887;Agostinha Esteves Melo Corte;AEMC
+781;Aida Maria De Brito Martins;AMBM
+1104;Albino João Marques Antunes;AJMA
+373;Alda Maria Loureiro Domingos;AMLD
+2;Altran;ALT
+28;Amândio Pereira Baía;APB
+1093;Ana Carolina Morgado Ferreira de Frias;ACMFF
+1009;Ana Cristina da Conceição Chambel Morais;ACCCM
+456;Ana Cristina Marques Daniel;ACMD
+994;Ana Elisabete Borges dos Santos Barbosa Lopes;AEBSBL
+386;Ana Isabel Da Silva Alves Poças;AISAP
+783;Ana Isabel Ventura Lopes Ferreira;AIVLF
+304;Ana Margarida Godinho Da Fonseca;AMGF
+268;Ana Margarida Lança Baptista Monteiro Oliveira;AMLBMO
+200;Ana Maria De Morais Caldas Antão;AMMCA
+888;Ana Maria Jorge;AMJ
+1116;Ana Raquel Sá Morais Videira Lopes de Andrade;ARSMVLA
+1047;Anabela Fernandes dos Santos;AFS
+291;Anabela Oliveira Da Naia Sardo;AONS
+974;André Ricardo Tomás dos Santos Araújo Pereira;ARTSAP
+1098;Andreia Inês Fernandes Pacheco;AIFP
+261;António Albino Alves Dias;AAAD
+3801133;António Augusto Ramalho Barbosa;AARB
+432;António Figueiredo Monteiro;AFM
+3800028;António Jaime da Silva Sampaio;AJSS
+372;António Joaquim Pires Lourenço;AJPL
+187;António Jorge De Almeida Leão;AJAL
+794;António Manuel Da Silva E Melo;AMSM
+927;António Manuel de Almeida Tavares Sequeira;AMATS
+889;António Manuel Martins Batista;AMMB
+256;António Mário Ribeiro Martins;AMRM
+119;António Pereira De Andrade Pissarra;APAP
+426;Arlindo Augusto Marques Ferreira;AAMF
+1121;Armando Manuel Nunes Machado;AMNM
+383;Ascensão Maria Martins Braga;AMMB
+704;Beatriz De Jesus Rebelo;BJR
+570;Bernardete Antunes Lourenço Jorge;BALJ
+1099;Bruno Filipe Almeida Fernandes;BFAF
+569;Carla Helena Henriques Candeias De Teles Ravasco Nobre;CHHCTRN
+975;Carla Sandra Mota Castro;CSMC
+278;Carlos Alberto Correia Carreto;CACC
+257;Carlos Alberto Figueiredo Ramos;CAFR
+548;Carlos Aquino Monteiro;CAM
+956;Carlos Diogo Duarte Rocha;CDDR
+749;Carlos Francisco Lopes Canelas;CFLC
+478;Carlos Jorge Gonçalves Brigas;CJGB
+854;Carlos Jorge Soares De Aquino Cavaleiro Marta;CJSACM
+204;Carlos Manuel Gonçalves Rodrigues;CMGR
+842;Carlos Nuno Pires Lourenço Sacadura;CNPLS
+819;Carolina Júlia Felix Vila Chã;CJFVC
+674;Catarina Afonso Alves;CAA
+962;Catarina Emília Venâncio Costa;CVC
+3800029;Catarina Neto Gavião Abrantes;CNGA
+562;Cecilia Maria Fernandes Da Fonseca;CMFF
+457;Celestino Alexandre De Almeida Pereira Gonçalves;CAAPG
+1018;César Carlos Pereira;CCP
+301;César Rafael Gonçalves;CRG
+151;Constantino Mendes Rei;CMR
+1088;Cristina Manuela Silva Rodrigues;CMSR
+363;Dina Da Conceição Da Fonseca Baptista Teixeira;DCFBT
+567;Elisabete Batoco Constante De Brito;EBCB
+433;Elisabete Dos Santos Veiga Monteiro;ESVM
+967;Elsa Maria Costa Ventura Ramos;EMCVR
+1031;Elsa Maria Pereira de Oliveira Cardoso;EMPOC
+1106;Elvira da Conceição Calado Faustino Pereira;ECCFP
+784;Emanuel De Castro Rodrigues;ECR
+1119;Emília Simão;ES
+669;Ermelinda Da Conceição Raimundo De Oliveira;ECRO
+892;Ermelinda Maria Bernardo Gonçalves Marques;EMBGM
+559;Ester Amorim Nogueira Fernandes;EANF
+464;Eufémia Da Glória Rodrigues Patrício;EGRP
+1096;Eva da Conceição Gomes Neto da Silva Alves;ECGNSA
+891;Ezequiel Martins Carrondo;EMC
+1091;Faber Sérgio Bastos Martins;FSBM
+1069;Fernanda da Conceição Cortinhas Santos;FCCS
+893;Fernanda Maria Trindade Lopes;FMTL
+260;Fernando António Carvalho Marcos;FACM
+772;Fernando Carmino Da Silva Marques;FCSM
+382;Fernando José Dos Santos Melo Rodrigues;FMR
+87;Fernando Pires Valente;FPV
+681;Filipa Maria Pacheco Gaudêncio;FMPG
+3801199;Filipa Salema de Freitas Franco Dias;FSFFD
+1097;Filipe António Marques Pires;FAMP
+203;Filomena De São José Bolota Velho;FSJBV
+420;Florbela Lages Antunes Rodrigues;FLAR
+894;Francisco António Fragoso Duarte;FAFD
+358;Francisco José Sanches Tomé;FJST
+582;Gonçalo José Poeta Fernandes;GJPF
+505;Gonçalo Nuno Paula De Campos Vinhas Leitão;GNPCVL
+195;Graça Maria De Oliveira Tomaz;GMOT
+612;Guilherme Francisco Rosa Monteiro;GFRM
+767;Handerson Webber Aguiar Engrácio;HWAE
+345;Helena Isabel Barroso Saraiva;HIBS
+370;Helena Maria Martins Simão;HMMS
+1087;Inês Beja Henriques;IBH
+739;Isa Margarida Vitória Severino;IMVS
+485;Isabel Cristina Da Silva De Morais;ICSM
+366;Isabel Maria Morais De Sousa Portugal Vieira;IMMSPV
+1030;Isabel Maria Ribeiro Fernandes;IMRF
+216;João António Lobão Andrade;JALA
+895;João Carlos Pereira Mira Leitão;JCPML
+933;João José Santiago Alves Correia;JJSAC
+682;João Paulo De Sá Valbom;JPSV
+1112;Joaquim Duarte Barroca Delgado;JDBD
+126;Joaquim Manuel Fernandes Brigas;JMFB
+506;Joaquim Manuel Pereira Mateus;JMPM
+244;Jorge Alberto Pereira Da Fonseca E Trindade;JFT
+400;Jorge Dos Santos Casanova;JSC
+638;Jorge Manuel Braz Gonçalves;JMBG
+1037;Jorge Manuel Gonçalves Aperta;JMGA
+252;Jorge Manuel Monteiro Mendes;JMMM
+296;Jorge Manuel Pereira Gregório;JMPG
+3800041;Jorge Manuel Pereira Veiga;JMPV
+389;José Alberto Quitério Figueiredo;JAQF
+425;José Alexandre Dos Santos Vaz Martins;JASVM
+92;José António Furtado De Figueiredo Gomes;JAFFG
+998;José Augusto Calado Monteiro;JACM
+323;José Augusto Nunes Loureiro;JANL
+415;José Carlos Coelho Martins Da Fonseca;JCCMF
+769;José Carlos Costa De Almeida;JCA
+511;José Carlos De Almeida Alexandre;JCAA
+439;José Carlos Guedes Dos Prazeres Miranda;JCGPM
+193;José Filipe Nunes Pereira Saraiva;JFNPS
+3800038;José João Pires Granado;JPG
+658;José Manuel Martins Valbom;JMMV
+501;José Manuel Mayor Gonzalez;JMMG
+792;José Manuel Rodrigues Almeida;JMRA
+884;José Maria Costa Coelho;JMCC
+563;José Miguel Rodrigues Teixeira Salgado;JMRTS
+95;José Reinas Dos Santos André;JRSA
+896;Júlia Maria Correia Coelho Moura;JMCCM
+1073;Lígia Lopes de Sousa Carreto;LLSC
+897;Luís António Videira;LAV
+404;Luís Filipe Da Costa Figueiredo;LFCF
+447;Luís Miguel Lopes Lourenço;LMLL
+250;Luísa Maria Lucas Queiróz De Campos;LMLQC
+724;Manuel António Brites Salgado;MABS
+1068;Manuel Augusto Nunes Vicente Passos Morgado;MANVPM
+899;Manuel Do Nascimento Da Silva Paulino;MNSP
+1085;Márcio José de Abreu Marques Rodrigues;MJAMR
+258;Maria Cecília Dos Santos Rosa;MCSR
+329;Maria Clara Dos Santos Pinto Silveira;MCSPS
+644;Maria De Fátima Bartolomeu Da Cruz Gonçalves;MFBCG
+1117;Maria de Fátima Costa Abrantes;MFCA
+303;Maria De Fátima Dos Santos David;MFSD
+900;Maria De Fátima Dos Santos Marques Roque;MFSMR
+321;Maria De Fátima Saraiva Da Silva Costa Bento;MFSSCB
+290;Maria De Jesus De Almeida Leão;MJAL
+3801215;Maria de Lurdes Ângelo F. Vaz;MLAFV
+416;Maria Del Carmen Arau Ribeiro;MDCAR
+1120;Maria do Carmo Soares de Albergaria Rodrigues Morais Carvalho;MCSARMC
+655;Maria Do Rosário Da Silva Santana;MRSS
+384;Maria Do Rosário Dias Camelo Dolgner;MRDCD
+262;Maria Eduarda Revés Roque Da Cunha Ferreira;MERRCF
+486;Maria Elisa Lopes De Figueiredo;MELF
+465;Maria Elisabete Santos Soares;MESS
+406;Maria Filomena Ribeiro Ventura Gomes;MFRVG
+875;Maria Helena Martins Pernadas;MHMP
+411;Maria Helena Teixeira  Pinto;MHTP
+902;Maria Hermínia Nunes Barbosa;MHNB
+427;Maria João Lino Silva Gomes;MJLSG
+422;Maria João Marques Alves Da Costa Pereira;MJMACP
+104;Maria José Andrade Pais Valente;MJAPV
+405;Maria Lúcia Paiva Tacanho Das Neves Marques;MLPTNM
+480;Maria Manuela André Alves Simões;MMAAS
+276;Maria Manuela Caria Figueira De Sá Neves;MMCFSN
+376;Maria Manuela Dos Santos Natário;MMSN
+1036;Maria Olimpia Cardoso Ferreira da Fonseca;MOCFF
+305;Maria Paula Cardinal Cruz Martins Das Neves;MPCCMN
+574;Maria Regina Gomes Gouveia;MRGG
+1050;Mário Jorge de Oliveira Costa;MJOC
+1015;Mário José Monteiro Lúcio Gonçalves;MJMLG
+678;Mário José Silva Meleiro;MJSM
+857;Marisa Filipa Ramos Teixeira;MFRT
+839;Maurício Manuel Gonçalves Vieira;MMGV
+879;Maximiano José Prata Ribeiro;MR
+932;Miguel Alfredo Guerra Pires;MAGP
+992;Miguel Pedro Januário Pessanha;MPJP
+1016;Mónica Alexandra Pires Veiga;MAPV
+3801211;Mónica Sofia Botelho Lima Augusto;MSBLA
+514;Natália Fernandes Gomes;NFG
+205;Natália Maria De Oliveira Pratas Rodrigues;NMOPR
+302;Natalina  Maria  Machado Roque Casanova;NMMRC
+812;Nelson Clemente Santos Dias De Oliveira;NCSDO
+877;Nelson Manuel Loureiro Soares;NMLS
+491;Noel De Jesus Mendonça Lopes;NJML
+823;Noémio De Jesus Da Encarnação Dória;NJED
+693;Nuno Álvaro Freire De Melo;NÁFM
+1083;Nuno Carlos Reis dos Santos;NCRS
+824;Nuno Miguel Lourenço Martins Cameira Serra;NMLMCS
+906;Odília Domingues Cavaco;ODC
+1105;Otília Isabel Ribeiro Nunes;OIRN
+1081;Patricia Valbom Nobre;PVN
+381;Paula Alexandra Cebola Amaro Rodrigues;PACAR
+907;Paula Cristina Do Vale Lopes Pissarra;PCVLP
+908;Paula Isabel Teixeira Gonçalves Coutinho Borges;PC
+463;Paulo Carlos Da Rocha Costa;PCRC
+317;Paulo Jorge Costa Nunes;PJCN
+909;Paulo Jorge Cruz Tavares;PJCT
+1001;Paulo Jorge Lopes Matos;PJLM
+429;Pedro Alexandre Nogueira Cardão;PANC
+836;Pedro José Arrifano Tadeu;PJAT
+805;Pedro Manuel Pinto Teixeira;PMPT
+1108;Pedro Miguel de Sousa Marques Simões;PMSMS
+375;Pedro Miguel Dos Santos Melo Rodrigues;PMSMR
+1109;Pedro Ricardo Gouveia da Fonseca;PRGF
+1049;Pedro Tiago Matos Esteves;PTME
+22003;Raul Pereira Pinto;RPP
+944;Raul Pereira Pinto;RPP
+1111;Ricardo Jorge da Costa Guerra;RJCG
+1056;Ricardo Jorge dos Santos Florentim;RJSF
+949;Ricardo Manuel da Fonseca Santos;RMFS
+635;Rita Ferreira Arala Chaves;RAC
+826;Romeu Mendes Da Silva Lopes;RMSL
+410;Rosa Branca  Almeida Figueiredo;RBAF
+474;Rosa Branca Cameira Tracana Pereira;RBCTP
+127;Rui António Pitarma Sabino Da Cunha Ferreira;RAPSCF
+3801239;Rui Filipe Cardoso Carreto;RCC
+1103;Rui Filipe Cardoso Carreto;RFCC
+434;Rui Manuel Formoso Nobre Santos;RMFNS
+1002;Rui Manuel Gonçalves Martins;RMGM
+873;Rui Pedro Pinheira Cerveira;RPPC
+274;Rute Maria Gomes Abreu;RA
+253;Samuel Walter Best;SWB
+734;Sandra Cristina Carvalho Aguiar Teixeira;SCCAT
+910;Sandra Cristina Do Espírito Santo Ventura;SCESV
+1086;Sara Filipa Dos Santos Farromba Flores;SFSFF
+1107;Sebastião Augusto Rodrigues Figueiredo Pais;SARFP
+435;Sérgio Augusto Bernardes Duarte;SABD
+3;SGS Formacao;SGS
+1110;Sílvia Isabel Marmelo Roberto;SIMR
+938;Simone Martins dos Prazeres;SMP
+604;Sónia Hortênsia Moreira Marques;SHMM
+438;Teresa De Jesus Trindade Moreira Da Costa E Fonseca;TJTMCF
+280;Teresa Maria Dias De Paiva;TMDP
+471;Teresa Maria Monteiro Felgueira;TMMF
+1118;Teresa Silveira Lopes;TSL
+264;Urbana Maria Bolota Cordeiro;UMBC
+488;Vitor Manuel De Sousa Gabriel;VMSG
+776;Vitor Manuel Dos Santos Amaral;VMSA
+466;Vitor Manuel Gomes Roque;VMGR
+68;Zaida Maria Lopes Pinto Ferreira;ZMLPF
+1089;Jorge Manuel Cardoso Rodrigues Morgado;SMCRM
+1122;Paula Maria Castelo Piedade Proença;PMCPP
+1123;Carla Manuela Condesso Perpétuo;CMCP
+1094;Carlos Manuel Correia do Carmo Bombas;CMCCB
+1126;Regina de Almeida Monteiro;RAM
+1125;Hugo Miguel Ambrósio Marques;HMAM
+1127;João Crisóstomo Alves Pereira;JCAP
+1124;Maria Eduarda Moreno da Silveira;MEMS
+99995;Sem Docente ESTG;SDESTG
+1128;Delfim Garcia Pereira;DGP
